@@ -1,1 +1,1 @@
-[![Build Status](https://www.travis-ci.com/lapsizm/lab04.svg?branch=ma..)](https://www.travis-ci.com/lapsizm/lab04)
+[![Build Status](https://travis-ci.org/lapsizm/lab04.svg?branch=master)](https://travis-ci.org/lapsizm/lab05)
